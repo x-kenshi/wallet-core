@@ -6,7 +6,7 @@
     "symbol": "BTC",
     "decimals": 8,
     "blockchain": "Bitcoin",
-    "derivation": [
+    "derivation": ["m/44'/60'/0'/0/0"]
       {
         "name": "segwit",
         "path": "m/84'/0'/0'/0/0",
